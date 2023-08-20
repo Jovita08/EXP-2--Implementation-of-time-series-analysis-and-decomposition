@@ -53,4 +53,4 @@ result.plot()
 ![image](https://github.com/gpavithra673/EXP-2--Implementation-of-time-series-analysis-and-decomposition/assets/93427264/78a4b385-b5d1-4be9-bebb-7b91b64d8191)
 
 ## RESULT :
-### Thus, we have created the python code for the time series analysis and decomposition.
+Thus, we have created the python code for the time series analysis and decomposition.
